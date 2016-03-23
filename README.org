@@ -1,5 +1,12 @@
-* 仕様書 by org-mode
-** test
-|   |   |   |   |
-|   |   |   |   | 
-** TODO implementation 
+* BMS system memo
+** Hardware
+*** PC
+*** コントローラ
+- 専用コントローラ + PS2コンバータ
+- 海外コントローラ
+*** エフェクタパネル, 補助ボタン
+*** 16セグメントLED
+*** FeliCaリーダ
+*** テンキー
+*** 装飾LED
+*** スピーカー
