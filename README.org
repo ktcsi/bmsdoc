@@ -5,7 +5,27 @@
 - 専用コントローラ + PS2コンバータ
 - 海外コントローラ
 *** エフェクタパネル, 補助ボタン
+**** スライドボリューム x 5
+***** 仕様変更
+****** 8th以前
+******* VEFX
+******* low-EQ
+******* high-EQ
+******* track volume
+******* play volume
+****** 10th以降
+******* VEFX
+******* low-EQ
+******* high-EQ
+******* filter
+******* play volume
+**** START
+**** effect on/off
+**** VFEX change
 *** 16セグメントLED
+- [[http://akizukidenshi.com/catalog/g/gI-04440/][A-2308SR]]
+- 500円/個
+- 10個必要
 *** FeliCaリーダ
 *** テンキー
 *** 装飾LED
